@@ -1,0 +1,197 @@
+
+
+
+
+header{
+    background-color: #151c2f;
+    
+}
+a.nav-link, .navbar-dark{
+    color:white!important;
+}
+a.nav-link:hover, .navbar-dark:hover{
+    color: yellow!important;
+    
+}
+.navbar-collapse{
+    font-size: 1.5em;
+}
+    
+
+  
+p{
+    font-size: 1em;
+    color:white;
+    
+}
+.banniere-img{
+    background: URL('./images/myrtilles.jpg') center center;
+    background-size: cover;
+    height: 100vh;
+    text-align:right;
+
+    
+}
+h1{
+    text-align: center;
+    color:white;
+    size: 36px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+    
+
+}
+h2{
+    text-align:center;
+    color:white;
+    size: 30px;
+  
+    
+}
+
+    
+
+
+.textHero p{
+    font-size: 2em;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+/*css nos-rencontres*/
+
+
+
+/*css notre-selection*/
+
+.selection img{
+    
+
+
+    width: 10em;
+}
+.selection{
+    background-color:#BFD159;
+    border: solid bold 1em;
+    padding: 10em;
+    border-radius:100em; 
+    
+}
+.selection p{
+    font-size: 1.5em;
+    padding: right 4em;
+    font-family: Lato bold;
+    color: #151c2f;
+}
+h2{
+    font-family:Lato bold ;
+    color:#151c2f;
+    font-size: 3em;
+}
+/*css fin notre selection*/
+/*main concernant accueil et selection*/
+
+main{
+    background-color: #BFD159;
+}
+
+.nos-rencontres{
+    background-color:#FEF056;
+}
+
+
+/* div.col-5{
+    background-color
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*css texte et couleur sous les fruits*/
+
+
+.zip {
+    background-color: #be3a5b;
+    width: 8em;
+    margin:2em;
+    
+
+}
+
+.ORIGINES{
+    background-color: #be3a5b;
+    padding-bottom: 12em;
+}
+/*début footer*/
+
+.navbar footer {
+    height:30%;
+    background-color: #151c2f;
+    padding-bottom: 2em;
+}
+.pfooter {
+    margin:0!important;
+}
+.locicon {
+    color: white;
+    font-size: 1em;
+    padding: 0.1em;
+}
+
+
+
+    /*nosrencontres*/
+
+
+
+
+
+.rencontre{
+    background-color: #FEF056;
+    padding:0.4em;
+}
+.icone{
+    width:50%
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
